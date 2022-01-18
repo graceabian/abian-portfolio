@@ -1,0 +1,13 @@
+body {
+	font-family: "Open Sans", sans-serif;
+
+}
+
+.navbar-collapse {
+	justify-content: flex-end;
+}
+
+.custom-image {
+	padding: 20px;
+	border-radius: 50%;
+}
